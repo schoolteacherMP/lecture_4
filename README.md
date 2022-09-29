@@ -3,3 +3,8 @@
 ![image](https://user-images.githubusercontent.com/113675674/192969741-8aa6e274-d801-495c-be5e-f362e22712ce.png)
 ![image](https://user-images.githubusercontent.com/113675674/192969784-c0b037fb-d6e9-45cd-b2b5-8fd93aba7324.png)
 ![image](https://user-images.githubusercontent.com/113675674/192969816-d26f87a1-7127-4abc-8f94-b0d474ab0bd3.png)
+
+HTML: Формы в HTML
+Пройти задания 25-31
+https://ru.codebasics.com/languages/html/lessons/form-basics
+![image](https://user-images.githubusercontent.com/113675674/192970391-73a791e1-f453-4769-b758-0713cc417825.png)
