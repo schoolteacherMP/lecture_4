@@ -5,6 +5,6 @@
 ![image](https://user-images.githubusercontent.com/113675674/192969816-d26f87a1-7127-4abc-8f94-b0d474ab0bd3.png)
 
 # Домашняя работа
-*HTML: Формы в HTML
-*Пройти задания 25-31
-*https://ru.codebasics.com/languages/html/lessons/form-basics
+* HTML: Формы в HTML
+* Пройти задания 25-31
+* https://ru.codebasics.com/languages/html/lessons/form-basics
