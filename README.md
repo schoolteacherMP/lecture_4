@@ -5,6 +5,15 @@
 ![image](https://user-images.githubusercontent.com/113675674/192969816-d26f87a1-7127-4abc-8f94-b0d474ab0bd3.png)  
 - Таблице задать следующие CSS свойства: table border="1px" style="margin: 0 auto; width: 800px"  
 - Первому (левому) td (наша навигация ) td style="width: 180px; vertical-align: top"  
+- Панель навигации (часть таблицы) будет повторяться на каждой странице  
+- Страница writeMe: 
+label,  
+input type="text",  
+input type="email",  
+br - что бы сделать перенос на новую строку,  
+input type="checkbox",  
+textarea rows="10" cols="40"  
+button
 
 
 # Домашняя работа
