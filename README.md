@@ -6,7 +6,7 @@
 - Таблице задать следующие CSS свойства: table border="1px" style="margin: 0 auto; width: 800px"  
 - Первому (левому) td (наша навигация ) td style="width: 180px; vertical-align: top"  
 - Панель навигации (часть таблицы) будет повторяться на каждой странице  
-- Страница writeMe: 
+- Страница writeMe:  
 label,  
 input type="text",  
 input type="email",  
